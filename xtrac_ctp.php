@@ -1,13 +1,27 @@
 <?php
 /**
- * @package xtrac_cpt
- * @version 1.0
+ * Plugin Name
+ *
+ * @package           xtrac_cpt
+ * @author            Tom Osborne
+ * @copyright         2022 Xtrac Limited
+ * @license           GPL-2.0-or-later
+ *
+ * @wordpress-plugin
+ * Plugin Name:       Xtrac CPT
+ * Plugin URI:        https://github.com/tom-osborne-xtrac/xtrac-cpt
+ * Description:       Custom Post Types for Xtrac Knowledge Base
+ * Version:           1.1.0
+ * Requires at least: 5.2
+ * Requires PHP:      7.2
+ * Author:            Tom Osborne
+ * Author URI:        https://github.com/tom-osborne-xtrac
+ * Text Domain:       xtrac-cpt
+ * License:           GPL v2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
+
 /*
-Plugin Name: Xtrac CPT
-Description: Xtrac Custom Post Types; XT Reports, Guides, Material Handbooks, Heat Treatment Codes and Snippets.
-Author: Tom Osborne
-Version: 1.1 - 31/10/2022
 Changelog:
 v1.0
 - Created plugin; Copied code across from 'xtrac-one' theme; Tidied code
